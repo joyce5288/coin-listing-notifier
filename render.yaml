@@ -12,3 +12,4 @@ services:
         value: 8123195608:AAFH7uHI3d5qCslSA5A8dn7i2or1Tg4pCHg
       - key: TELEGRAM_CHAT_ID
         value: "-1002379561191"
+

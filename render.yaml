@@ -8,6 +8,6 @@ services:
     startCommand: python main.py
     envVars:
       - key: TELEGRAM_BOT_TOKEN
-        value: "替换为你的 Bot Token"
+        value: 8123195608:AAFH7uHI3d5qCslSA5A8dn7i2or1Tg4pCHg
       - key: TELEGRAM_CHAT_ID
-        value: "替换为你的 Chat ID"
+        value: "-1002379561191"

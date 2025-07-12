@@ -4,6 +4,7 @@ services:
     env: python
     runtime: python
     pythonVersion: 3.10
+    runtimeVersion: 3.10  # 试试加这行
     buildCommand: pip install -r requirements.txt
     startCommand: python main.py
     envVars:
